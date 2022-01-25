@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DpSilenceX
 - 👀 I’m interested in Softwaredevelopment
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning HTML/CSS/JS/C/C#
 - 📫 How to reach me lainelreinasanchez@gmx.de
 
 <!---
